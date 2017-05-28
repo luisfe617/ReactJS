@@ -1,0 +1,8 @@
+.TCalculatorHeader {
+    height: 40px;
+    line-height: 40px;
+}
+
+.TCalculatorRowComponent {
+    margin-top: 20px; 
+}
